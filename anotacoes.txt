@@ -1,0 +1,64 @@
+HISTÓRIA DO PYTHON
+
+1982 - Amsterdã
+CWI - centro de matemática e ciência da computação
+linguagem ABC
+Guido Van Hossum - linguagem Phyton - comando simples compreensão
+
+Monty python's flying circus - programa de humor 
+
+CP4E - DARPA -1995
+
+2001 - python SW foundation
+
+Raspberry.PI
+
+Minecraft PI
+
+======================================================
+PARA QUE SERVE PYTHON
+
+Jogos em python 
+Programas em python
+
+======================================================
+
+INSTALANDO PYTHON
+
+=====================================================
+
+PRIMEIROS COMANDOS EM PYTHON
+
+TODA VARIAVEL É UM OBJETO
+
+nome = "wellington"
+idade = 25
+peso = 75,5
+
+print(nome, idade, peso)
+
+executamos via linha de comando (python 3.6+) ou IDLE (para aqruivos com extensão .PY)
+
+DESAFIOS
+
+nome = input("Qual o seu nome? ")
+
+print("Olá, ",nome,"muito prazer, seja bem vindo")
+
+print("Vamos nos conhecer melhor!")
+
+dia = input("Qual o dia do seu nascimento?")
+mes = input("Qual o mês do seu nascimento?")
+ano = input("Qual o ano do seu nascimento?")
+
+print("Você nasceu no dia",dia,"no mês de",mes,"no ano de",ano)
+
+
+======================================================
+
+ Instalando o PyCharm e o QPython3
+
+PyCharm baixar executar
+ 
+
+

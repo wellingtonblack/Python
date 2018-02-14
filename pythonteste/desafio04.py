@@ -1,0 +1,6 @@
+var = input("digite numeros ")
+print(var.isnumeric())
+var2 = input("digite letras ")
+print(var2.isalpha())
+var2 = input("digite espaços ")
+print(var2.isspace())
